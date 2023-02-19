@@ -1,6 +1,8 @@
 # Customer-Satisfaction-during-Hotel-Stay-using-Decision-Tree-based-Learning-Model
 Customer Satisfaction during Hotel-Stay using Decision Tree based Learning Model
 
+Group Project | Mini Project | Machine Leanring Course | Semester2
+
 ###Objective:
  In a five star hotel, the hotel inspection authority is conducting a survey based on automated
 learning methods. They want to keep track whether a customer feels satisfied based on several hotel attributes
